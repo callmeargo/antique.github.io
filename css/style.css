@@ -5,27 +5,27 @@
 
 @font-face {
   font-family: "font1";
-  src: url(/fonts/bebas/BebasNeue-Regular.ttf);
+  src: url(fonts/bebas/BebasNeue-Regular.ttf);
 }
 @font-face {
   font-family: "font2";
-  src: url(/fonts//belle/LaBelleAurore-Regular.ttf);
+  src: url(fonts//belle/LaBelleAurore-Regular.ttf);
 }
 @font-face {
   font-family: "font3";
-  src: url(/fonts/kenia/Kenia-Regular.ttf);
+  src: url(fonts/kenia/Kenia-Regular.ttf);
 }
 @font-face {
   font-family: "font4";
-  src: url(/fonts/covered/CoveredByYourGrace-Regular.ttf);
+  src: url(fonts/covered/CoveredByYourGrace-Regular.ttf);
 }
 @font-face {
   font-family: "font5";
-  src: url(/fonts/hanalei/HanaleiFill-Regular.ttf);
+  src: url(fonts/hanalei/HanaleiFill-Regular.ttf);
 }
 @font-face {
   font-family: "font6";
-  src: url(/fonts/scural/SecularOne-Regular.ttf);
+  src: url(fonts/scural/SecularOne-Regular.ttf);
 }
 body {
   background: rgb(247, 247, 247);
